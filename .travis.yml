@@ -1,2 +1,4 @@
-script: javac Test.java Code.java && java -ea Test
+script: javac Test.java 
+	javac Code.java
+	java -ea Test
 
