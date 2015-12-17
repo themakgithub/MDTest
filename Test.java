@@ -2,7 +2,7 @@ class Test {
 
 	//@brief return the sum of x and y;
 	public int add (int x, int y){
-		return x+y;
+		return x+y+1;
 	}
 
 	public static void main(String args[]){
