@@ -1,13 +1,6 @@
 class Test {
-    /*Nous voulons ici tester l'implementation de notre fonction sum.
-     
-     On se servira d'__ assert __ pour verifier que notre fonction renvoie bien
-     ce qu'elle est supposee renvoyer.
-    */
-
-	//@brief renvoie la somme de x et y ?
 	public int add (int x, int y){
-		return x+y; //une erreur dans notre code. sum est suppose renvoyer x+y
+		return x+y; 
 	}
 
 	public static void main(String args[]){
