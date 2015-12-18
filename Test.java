@@ -1,6 +1,6 @@
 class Test {
 	public int add (int x, int y){
-		return x+y+2; 
+		return x+y; 
 	}
 
 	public static void main(String args[]){
