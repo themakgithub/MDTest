@@ -7,7 +7,7 @@ class Test {
 
 	//@brief renvoie la somme de x et y ?
 	public int add (int x, int y){
-		return x+y+1; //une erreur dans notre code. sum est suppose renvoyer x+y
+		return x+y; //une erreur dans notre code. sum est suppose renvoyer x+y
 	}
 
 	public static void main(String args[]){
