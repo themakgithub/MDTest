@@ -1,6 +1,6 @@
 class Test {
-	public int add (int x, int y){
-		return x+y+3; 
+	public int add (int x, int y){ //renvoie la somme de deux entiers
+		return x+y+3; //erreur ici !
 	}
 
 	public static void main(String args[]){
