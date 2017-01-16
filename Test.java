@@ -9,8 +9,8 @@ class Test {
 		Test my_test = new Test();
 
         //suite de test
-		assert my_test.add(5,10) == 15 : "suppose retourner 15"; //on verifie ici si sum(5,10) == 15
-		assert my_test.add(10,20) == 30: "suppose retourner 30" ;
-		assert my_test.add(14,30) == 44: "suppose retourner 44";
+		assert my_test.add(5,10) == 15 : "supposé retourner 15"; //on verifie ici si sum(5,10) == 15
+		assert my_test.add(10,20) == 30: "supposé retourner 30";
+		assert my_test.add(14,30) == 44: "supposé retourner 44";
 	}
 }
